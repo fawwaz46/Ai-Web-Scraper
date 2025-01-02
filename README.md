@@ -1,6 +1,6 @@
 # AI Web Scraper by Fawwaz Abayomi
 
-This project is an AI-powered web scraper designed to extract, parse, and process data from websites efficiently.
+This project is an AI-powered web scraper designed to extract, parse, and process data from websites. It can be used for summarization, research, and more!
 
 ## Features
 - **Scrape.py**: Handles web scraping tasks using libraries like BeautifulSoup or Selenium.
